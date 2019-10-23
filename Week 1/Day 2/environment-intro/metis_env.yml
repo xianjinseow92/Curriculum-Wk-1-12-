@@ -1,0 +1,74 @@
+channels:
+  - conda-forge
+  - defaults
+  - default
+  - mlgill
+  - anaconda
+  - syllabs_admin
+dependencies:
+  - arrow
+  - beautifulsoup4
+  - bokeh
+  - dask
+  - dask-ml
+  - findspark
+  - flask
+  - flask-cors
+  - gensim >= 3.4
+  - glm
+  - html5lib
+  - imbalanced-learn
+  - ipykernel
+  - ipython
+  - ipython_genutils
+  - ipywidgets
+  - joblib
+  - jupyter
+  - jupyter_client
+  - jupyter_core
+  - keras>=2.2.4
+  - line_profiler
+  - lxml
+  - matplotlib >= 3.1.1
+  - memory_profiler
+  - mlxtend
+  - nb_conda
+  - nbgrader
+  - networkx >= 2.3
+  - nltk >=3.4
+  - nose
+  - numpy>=1.16
+  - openjdk=8.*
+  - pandas>=0.24.0
+  - patsy
+  - pip
+  - plotly
+  - psutil
+  - psycopg2
+  - pydot >=1.4
+  - pygam
+  - pymongo >= 3.7
+  - pyspark
+  - python-chromedriver-binary
+  - python-dotenv
+  - python>=3.6
+  - requests
+  - requests-oauthlib >=1.0
+  - scikit-learn>=0.20
+  - scikit-surprise >=1.0
+  - scipy
+  - seaborn
+  - selenium
+  - setuptools
+  - statsmodels
+  - tensorflow>=1.10.0
+  - textblob
+  - tweepy
+  - pip:
+      - --extra-index-url https://pypi.fury.io/artificialsoph/
+      - gamma
+      - fake_useragent
+      - git+https://github.com/cscherrer/py-glm.git
+      - numpy == 1.16.1
+      - svdrec
+name: metis

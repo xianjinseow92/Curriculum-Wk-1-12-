@@ -1,0 +1,84 @@
+<html>
+<head>
+	<title> My Awesome Webpage </title>
+</head>
+<body>
+  <div id = 'textdiv'>
+
+    <p><h1> Hello World! </h1>
+      HTML is Easy peasy.
+    </p>
+
+    <p> This is a paragraph.</p>
+    <p> This is<br> a paragraph<br> with line breaks. </p>
+    <p> This is another paragraph mate.</p> 
+    
+  </div>
+  <div id = 'linkdiv'>
+
+    <h2> The a href attribute </h2>
+    <a href="www.youtube.com"> This is my favorite website. Click to find out. </a>
+  </div>
+
+
+  <div id= 'imgdiv'>
+	    
+    <h2> The src Attribute </h2>
+    <p> HTML images are defined with the img tag (img src) and the filename of the image source is specified in the src attribute:</p>
+    <img src="https://www.google.com/search?q=youtube+logo&rlz=1C1CHBF_enSG724SG724&sxsrf=ACYBGNTzI2nTsYZ_oUAIO3bIviwXBGzY2w:1571016517584&tbm=isch&source=iu&ictx=1&fir=FxDkrhEZAW_iyM%253A%252CaJ24kmLeHH-vrM%252C_&vet=1&usg=AI4_-kTKBY4oJglf4vywp-dnlc8uJjgSmw&sa=X&ved=2ahUKEwjbzt3LzJrlAhVVVH0KHZpYA0oQ9QEwAXoECAIQBg#imgrc=FxDkrhEZAW_iyM:&vet=1" width='500' height="600">
+
+  </div>
+
+
+  <div id = 'tbldiv'>
+	    <p> Each table row is defined with the `tr` tag. </p>
+	    <p> A table header is defined with the "th" tag. </p>
+	    <p> A table data/cell is defined with the "td" tag. </p>
+
+	    <table>
+		    <table style='width:100%'>
+			    <tr>
+				    <th> Last name </th>
+				    <th> First name </th>
+				    <th> Spirit Animal </th>
+				    <th> Quote </th>
+			    </tr>
+			    <tr>
+				    <td> Jose </td>
+				    <td> Jeff </td>
+				    <td> Crococdile </td>
+				    <td> "Boot camp is hard" </td>
+			    </tr>
+			    <tr>
+				    <td> Seow </td>
+				    <td> Xian Jin </td>
+				    <td> Sloth </td>
+				    <td> "I want to sleep </td>
+			    </tr>
+
+
+		    	    </table>
+	    
+
+  </div>
+
+  <div id = 'listdiv'>
+	    <p> An unordered list starts with the ul tag.</p>
+	    <p> An ordered list starts with the ol tag.</p>
+	    <ol>
+		    <li> Spirited Away </li>
+		    <li> Ready Player One </li>
+		    <li> About Time </li>
+	    </ol>
+	    <ul>
+		    <li> git remote -v </li>
+		    <li> git add (filename) </li>
+		    <li> git commit -m "your message here" </li>
+
+	    </ul>
+
+  </div>
+
+ 
+</body>
+</html>
