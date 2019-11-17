@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <link rel='stylesheet' href='/static/css/style.css'/>
+  </head>
+  <body>
+
+    <div class='title'>
+      SCRABBLE
+    </div>
+    
+    <div class="my-letters">
+      {% for letter in letters %}   # JINJA syntax. This is kind of like a for-loop
+        <div class='letter'>
+          {{letter}}  # Double curly braces show value of what is inside "letter"
+        </div>
+      {% endfor %}                   # Ending the JINJA loop
+    </div> 
+
+    <div class="score">
+      The score is {{score}}
+    </div>
+
+  </body>
+</html>
