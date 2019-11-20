@@ -1,0 +1,92 @@
+{
+  "_id": 1,
+  "name": "Joanne Rowling",
+  "aliases": ["J. K. Rowling", "Robert Galbraith"],
+  "nationality": ["British"],
+  "bio": "https://en.wikipedia.org/wiki/J._K._Rowling",
+  "books": [
+    {
+      "title": "Harry Potter and the Philosopher's stone",
+      "alt_title": "Harry Potter and the Sourcer's stone",
+      "description": "We are introduced to Harry Potter, Voldemort, and British magical society. Sorting hat tells us that it is our choices that define us -- Harry could have either been in Gryffindor or Slytherian.",
+      "sold": 120000000
+    },
+    {
+      "title": "Harry Potter and the Chamber of secrets",
+      "description": "We encounter the first horcrux, and uncover a shrine to snakes",
+      "sold": 77000000
+    },
+    {
+      "title": "Harry Potter and the Prizoner of Azkeban",
+      "description": "The first really anti-authoritarian piece in the HP world, where we learn that the ministry of magic is both corrupt AND incompentent",
+      "sold": 65000000
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "description": "We learn that having a safety code during school activities and competitions is a good thing, as Harry competes in a tournament that makes the Hunger Games look mild",
+      "sold": 65000000
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "description": "We learn Dumbledore's full name at the Wizengamot. We also learn that the rules for self-defense using magic don't make any sense. We are introduced to authoratarian leader Dolores Umbridge. Secrets are kept from Harry for teh purpose of driving the plot forward -- seriously, that incident at the ministry of magic could have been avoided with a simple conversation. Prophosies become important. Maybe the first book where the interests of society are more important than Quiddich.",
+      "sold": 65000000
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "description": "Harry finds more ways to cheat through his potions class. The role of the prophecy rests on the interpretation and choices we make (call back to sorting hat), rather than being fatalistic. Snape kills Dumbledore.",
+      "sold": 65000000
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "alt_title": "Harry Potter and the Camping Trip",
+      "description": "Voldemort has returned to power. Harry goes camping, then decides to return to school and dies. He gets better. Snape gets to be the hero to his long dead love. Snape dies. He does not get better. We are reunited with Dumbledore in the odd train station to heaven. Voldemort and Umbridge are defeated. We finally meet Slytherians that choose to be good (call back to sorting hat).",
+      "sold": 65000000
+    }
+  ]
+}
+{
+  "_id": 2,
+  "name": "Harland Sanders",
+  "nationality": ["American"],
+  "bio": "https://en.wikipedia.org/wiki/Colonel_Sanders",
+  "books": [
+    {
+      "title": "Tender Wings of Desire",
+      "description": "A KFC marketing stunt for Mother's day (one of the busiest days of the year), which is a romance novel in which a Southern Belle falls for the mysterious stranger, Harland \"Colonel\" Sanders.",
+      "sold": 1000
+    }
+  ]
+}
+{
+  "_id": 3,
+  "name": "Count Lev Nikolayevich Tolstoy",
+  "nationality": ["Russian"],
+  "bio": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+  "books": [
+    {
+      "title": "War and Peace",
+      "description": "A true classic, in the sense that everyone wants to have read it, but noone wants to read it",
+      "sold": 36000000
+    },
+    {
+      "title": "Anna Karenina",
+      "description": "A story of the unequal treatment of women in aristocratic Russia",
+      "opening line": "Happy families are all alike; every unhappy family is unhappy in its own way.",
+      "sold": 20000000
+    }
+  ]
+}
+{
+  "_id": 4,
+  "name": "曹雪芹",
+  "nationality": ["Chinese"],
+  "bio": "https://en.wikipedia.org/wiki/Cao_Xueqin",
+  "books": [
+    {
+      "title": "红楼梦",
+      "alt_title": "Dream of the Red Chamber",
+      "description": "An aristocratic playboy is torn between the cousin with whom he has a connection, and the cousin he is supposed to marry, as his family's fortunes decline.",
+      "sold": 100000000
+    }
+  ]
+}
